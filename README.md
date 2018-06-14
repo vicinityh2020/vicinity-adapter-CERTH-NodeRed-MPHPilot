@@ -1,10 +1,11 @@
 # 1. Infrastructure overview
-This is a Vicinity Adapter for MPH Pilot infrastructure.It is used to describe motion sensors, door sensors, pressure mats and panic buttons, which are deployed in municipality houses and is based on IoTivity Platform.
+This is a Vicinity Adapter for MPH Pilot infrastructure.It is used to describe bloodpressure monitors and weight scales, which are deployed in municipality houses, and is based on NodeRed Platform.
 
 # 2. Configuration and deployment
 ## Requirements
 
 JDK 1.8
+Apache Maven 3.3.9 or higher
 
 ## Build using Maven
 
