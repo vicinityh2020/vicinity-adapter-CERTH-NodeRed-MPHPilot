@@ -1,0 +1,1 @@
+# vicinity-adapter-CERTH-NodeRed-MPHPilot
